@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\temp\\AlunoAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|c:\\temp\\alunoapi\\alunoapi\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|solutionrelative:alunoapi\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|c:\\temp\\alunoapi\\alunoapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|solutionrelative:alunoapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|c:\\temp\\alunoapi\\alunoapi\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|solutionrelative:alunoapi\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|c:\\temp\\alunoapi\\alunoapi\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|solutionrelative:alunoapi\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|c:\\temp\\alunoapi\\alunoapi\\migrations\\20241228214124_populatabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|solutionrelative:alunoapi\\migrations\\20241228214124_populatabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|c:\\temp\\alunoapi\\alunoapi\\migrations\\20241228213232_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|solutionrelative:alunoapi\\migrations\\20241228213232_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|c:\\temp\\alunoapi\\alunoapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|solutionrelative:alunoapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{620F145E-8DA6-4F35-BF0E-169F8C451251}|AlunoAPI\\AlunoAPI.csproj|c:\\temp\\alunoapi\\alunoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,24 +50,67 @@
       "DocumentGroups": [
         {
           "DockedHeight": 729,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\temp\\AlunoAPI\\AlunoAPI\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "AlunoAPI\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\temp\\AlunoAPI\\AlunoAPI\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "AlunoAPI\\Controllers\\AlunosController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:34:16.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunosService.cs",
+              "DocumentMoniker": "C:\\temp\\AlunoAPI\\AlunoAPI\\Services\\AlunosService.cs",
+              "RelativeDocumentMoniker": "AlunoAPI\\Services\\AlunosService.cs",
+              "ToolTip": "C:\\temp\\AlunoAPI\\AlunoAPI\\Services\\AlunosService.cs",
+              "RelativeToolTip": "AlunoAPI\\Services\\AlunosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:14:18.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAlunoService.cs",
+              "DocumentMoniker": "C:\\temp\\AlunoAPI\\AlunoAPI\\Services\\IAlunoService.cs",
+              "RelativeDocumentMoniker": "AlunoAPI\\Services\\IAlunoService.cs",
+              "ToolTip": "C:\\temp\\AlunoAPI\\AlunoAPI\\Services\\IAlunoService.cs",
+              "RelativeToolTip": "AlunoAPI\\Services\\IAlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:06:34.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20241228214124_PopulaTabela.cs",
               "DocumentMoniker": "C:\\temp\\AlunoAPI\\AlunoAPI\\Migrations\\20241228214124_PopulaTabela.cs",
               "RelativeDocumentMoniker": "AlunoAPI\\Migrations\\20241228214124_PopulaTabela.cs",
               "ToolTip": "C:\\temp\\AlunoAPI\\AlunoAPI\\Migrations\\20241228214124_PopulaTabela.cs",
               "RelativeToolTip": "AlunoAPI\\Migrations\\20241228214124_PopulaTabela.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T21:41:25.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "20241228213232_Inicial.cs",
               "DocumentMoniker": "C:\\temp\\AlunoAPI\\AlunoAPI\\Migrations\\20241228213232_Inicial.cs",
               "RelativeDocumentMoniker": "AlunoAPI\\Migrations\\20241228213232_Inicial.cs",
@@ -63,25 +118,24 @@
               "RelativeToolTip": "AlunoAPI\\Migrations\\20241228213232_Inicial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T21:32:33.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T21:32:33.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\temp\\AlunoAPI\\AlunoAPI\\Startup.cs",
               "RelativeDocumentMoniker": "AlunoAPI\\Startup.cs",
               "ToolTip": "C:\\temp\\AlunoAPI\\AlunoAPI\\Startup.cs",
               "RelativeToolTip": "AlunoAPI\\Startup.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwB4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T21:25:50.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\temp\\AlunoAPI\\AlunoAPI\\appsettings.json",
               "RelativeDocumentMoniker": "AlunoAPI\\appsettings.json",
@@ -89,12 +143,11 @@
               "RelativeToolTip": "AlunoAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-28T21:22:04.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T21:22:04.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\temp\\AlunoAPI\\AlunoAPI\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "AlunoAPI\\Context\\AppDbContext.cs",
@@ -102,12 +155,11 @@
               "RelativeToolTip": "AlunoAPI\\Context\\AppDbContext.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAwwA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T21:14:25.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T21:14:25.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\temp\\AlunoAPI\\AlunoAPI\\Models\\Aluno.cs",
               "RelativeDocumentMoniker": "AlunoAPI\\Models\\Aluno.cs",
@@ -115,25 +167,19 @@
               "RelativeToolTip": "AlunoAPI\\Models\\Aluno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T20:00:54.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T20:00:54.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AlunoAPI",
+              "DocumentIndex": 8,
+              "Title": "AlunoAPI.csproj",
               "DocumentMoniker": "C:\\temp\\AlunoAPI\\AlunoAPI\\AlunoAPI.csproj",
               "RelativeDocumentMoniker": "AlunoAPI\\AlunoAPI.csproj",
               "ToolTip": "C:\\temp\\AlunoAPI\\AlunoAPI\\AlunoAPI.csproj",
               "RelativeToolTip": "AlunoAPI\\AlunoAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-28T19:58:49.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-12-28T19:58:49.343Z"
             }
           ]
         },
