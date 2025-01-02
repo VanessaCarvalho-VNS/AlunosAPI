@@ -63,3 +63,4 @@ C:\temp\AlunoAPI\AlunoAPI\obj\Debug\net5.0\refint\AlunoAPI.dll
 C:\temp\AlunoAPI\AlunoAPI\obj\Debug\net5.0\AlunoAPI.pdb
 C:\temp\AlunoAPI\AlunoAPI\obj\Debug\net5.0\AlunoAPI.genruntimeconfig.cache
 C:\temp\AlunoAPI\AlunoAPI\obj\Debug\net5.0\ref\AlunoAPI.dll
+C:\temp\AlunoAPI\AlunoAPI\obj\Debug\net5.0\AlunoAPI.sourcelink.json

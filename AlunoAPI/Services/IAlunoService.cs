@@ -8,7 +8,7 @@ namespace AlunoAPI.Services
     {
         Task<IEnumerable<Aluno>> GetAlunos();
         Task<Aluno> GetAluno(int id);
-        Task<IEnumerable<Aluno>> AddAlunoByNome(Aluno aluno);
+        Task<IEnumerable<Aluno>> GetAlunoByNome(Aluno aluno);
         Task CreateAluno(Aluno aluno);
         Task UpdateAluno(Aluno aluno);
         Task DeleteAluno(Aluno aluno);

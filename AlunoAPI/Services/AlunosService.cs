@@ -28,7 +28,7 @@ namespace AlunoAPI.Services
            
         }
 
-        public async Task<IEnumerable<Aluno>> AddAlunoByNome(Aluno aluno)
+        public async Task<IEnumerable<Aluno>> GetAlunoByNome(Aluno aluno)
         {
             IEnumerable<Aluno> alunos;
             if(!string.IsNullOrEmpty(aluno.Nome))
