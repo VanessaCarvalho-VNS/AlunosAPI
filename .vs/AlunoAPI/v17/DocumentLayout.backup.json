@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "AlunoAPI\\Controllers\\AlunosController.cs",
               "ToolTip": "C:\\temp\\AlunoAPI\\AlunoAPI\\Controllers\\AlunosController.cs",
               "RelativeToolTip": "AlunoAPI\\Controllers\\AlunosController.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIUAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T23:34:16.706Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "AlunoAPI\\Services\\AlunosService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T23:14:18.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T23:14:18.219Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "AlunoAPI\\Services\\IAlunoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T23:06:34.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T23:06:34.284Z"
             },
             {
               "$type": "Document",
